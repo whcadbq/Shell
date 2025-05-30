@@ -1,0 +1,6 @@
+﻿  CPacker.cpp
+C:\Users\52511\source\repos\Shell\Shell\CPacker.cpp(7,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  Shell.cpp
+C:\Users\52511\source\repos\Shell\Shell\Shell.cpp(108,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  ShellDlg.cpp
+C:\Users\52511\source\repos\Shell\Shell\ShellDlg.cpp(179,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?

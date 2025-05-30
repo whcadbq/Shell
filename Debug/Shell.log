@@ -1,0 +1,5 @@
+﻿  CPacker.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\zyx\Desktop\毕业设计\Shell\Shell\CPacker.cpp(346,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zyx\Desktop\毕业设计\Shell\Shell\CPacker.cpp(359,23): warning C4018: “<”: 有符号/无符号不匹配
+  Shell.vcxproj -> C:\Users\zyx\Desktop\毕业设计\Shell\Debug\Shell.exe
